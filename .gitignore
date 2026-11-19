@@ -3,3 +3,4 @@
 *.vcd
 obj_dir/
 *.log
+build/
